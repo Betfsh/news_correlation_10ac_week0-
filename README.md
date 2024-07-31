@@ -95,4 +95,12 @@ The project is divided into multiple tasks:
 - **Python Environment Setup**: Prepared a Python environment for data analysis.
 - **Exploratory Data Analysis (EDA)**: Analyzed the dataset to answer various questions about news articles, including top websites, traffic analysis, sentiment analysis, and more.
 
+## Task 2: Data Science Component Building
 
+- **Topic Modeling**: Implemented topic modeling on news articles to uncover underlying themes.
+- **Sentiment Analysis**: Conducted sentiment analysis on news article titles to understand public perception.
+
+## Task 3: PostgreSQL
+
+- **Database Schema Design**: Designed a schema for PostgreSQL to store ML features.
+- **Data Loading**: Loaded data from CSV into PostgreSQL database for efficient storage and retrieval.
