@@ -48,3 +48,33 @@ Git installed on your system. You can download and install Git from https://git-
    
    ```bash
     pip install -r requirements.txt
+
+## Project Structure
+
+The project is structured as follows:
+
+- .github
+  - workflows
+    - flake8_check.yml
+    - unittests.yml
+    - docstring_tests.yml
+- .vscode
+  - settings.json
+- model
+  - saved_model_weights.h5
+- notebooks
+  - news_correlation.ipynb
+- screenshoots: screenshots of the streamlit dashboard.
+- src
+  - csv_handler.py
+  - database.py
+  - loader.py
+  - main.py
+  - utils.py
+- tests
+  - __init__.py
+- .gitignore
+- README.md
+- app.py
+- config.json
+- requirements.txt
