@@ -89,3 +89,10 @@ The project is divided into multiple tasks:
 4. **Dashboards**: Design and implement a dashboard using Streamlit or React to visualize analysis results.
 5. **Deployment**: Deploy the project using GitHub Actions for continuous deployment, and configure environment variables and PostgreSQL database.
 
+## Task 1: Project Setup and EDA
+
+- **Git and GitHub Setup**: Created a GitHub repository and set up version control.
+- **Python Environment Setup**: Prepared a Python environment for data analysis.
+- **Exploratory Data Analysis (EDA)**: Analyzed the dataset to answer various questions about news articles, including top websites, traffic analysis, sentiment analysis, and more.
+
+
