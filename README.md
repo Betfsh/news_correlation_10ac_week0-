@@ -104,3 +104,7 @@ The project is divided into multiple tasks:
 
 - **Database Schema Design**: Designed a schema for PostgreSQL to store ML features.
 - **Data Loading**: Loaded data from CSV into PostgreSQL database for efficient storage and retrieval.
+
+## Task 4: Dashboards
+
+- **Streamlit Dashboard**: Designed and implemented a Streamlit dashboard to visualize EDA and model prediction results.
