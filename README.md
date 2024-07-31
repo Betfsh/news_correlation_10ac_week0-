@@ -18,3 +18,7 @@ Quantifying these characteristics and comparing them across different news prese
 - [Task 4: Dashboards](#task-4-dashboards)
 - [Contributions](#contributing)
 - [License](#license)
+
+## Introduction
+
+This project is centered around the analysis of news data to reveal valuable insights including top news websites, traffic patterns, sentiment analysis, topic modeling, and other pertinent aspects. The dataset encompasses details about news articles such as their source, author, content, sentiment, and publication date. Through the application of diverse data science methodologies, the goal is to extract actionable insights that provide a deeper understanding of the news landscape.
