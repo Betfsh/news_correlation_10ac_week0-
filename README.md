@@ -9,7 +9,7 @@ Quantifying these characteristics and comparing them across different news prese
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to Clone the Repository](#how-to-clone-the-repository)
+- [How to get started](#how-to-clone-the-repository)
 - [Project Structure](#project-structure)
 - [Task Overview](#task-overview)
 - [Task 1: Project Setup and EDA](#task-1-project-setup-and-eda)
@@ -22,3 +22,29 @@ Quantifying these characteristics and comparing them across different news prese
 ## Introduction
 
 This project is centered around the analysis of news data to reveal valuable insights including top news websites, traffic patterns, sentiment analysis, topic modeling, and other pertinent aspects. The dataset encompasses details about news articles such as their source, author, content, sentiment, and publication date. Through the application of diverse data science methodologies, the goal is to extract actionable insights that provide a deeper understanding of the news landscape.
+
+## How to get started
+
+This section will guide you through cloning the repository and setting up your development environment.
+
+### Prerequisites
+
+Git installed on your system. You can download and install Git from https://git-scm.com/downloads
+
+### Steps
+
+1. Go to terminal window.
+
+2. Navigate to the desired directory on your local machine where you want to clone the repository. You can use the cd command to change directories.:
+
+3. Clone the repository using the following command:
+
+   ``` bash
+   git clone git@github.com:Betfsh/news_correlation_10ac_week0-.git
+   
+   cd news_correlation_10ac_week0
+   ```
+4. Install the required dependencies:
+   
+   ```bash
+    pip install -r requirements.txt
