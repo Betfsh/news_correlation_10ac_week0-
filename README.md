@@ -44,7 +44,33 @@ Git installed on your system. You can download and install Git from https://git-
    
    cd news_correlation_10ac_week0
    ```
-4. Install the required dependencies:
+4. Creating a Virtual Environment
+#### Using Conda
+
+If Conda is your preferred package manager:
+
+ Open your terminal or command prompt.
+
+
+ Navigate to the project directory.
+    ```bash
+    cd path/to/news-correlation
+    ```
+
+ Run the following commands to create a new virtual environment.
+
+    ```bash
+    conda create --name env_name python=3.8.10
+    ```
+    Replace ```env_name``` with the desired name of the virtual environment and ```3.8.10``` with your preferred Python version.
+
+
+ Activate the virtual environment.
+
+    ```bash
+    conda activate env_name
+   ```
+5. Install the required dependencies:
    
    ```bash
     pip install -r requirements.txt
