@@ -108,3 +108,7 @@ The project is divided into multiple tasks:
 ## Task 4: Dashboards
 
 - **Streamlit Dashboard**: Designed and implemented a Streamlit dashboard to visualize EDA and model prediction results.
+
+## Contributions
+
+Contributions are welcome! Feel free to open issues or pull requests for any suggestions, bug fixes, or enhancements.
