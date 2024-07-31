@@ -6,3 +6,15 @@ Gathered  data, such as the news articles, domain locations, and website traffic
 
 Quantifying these characteristics and comparing them across different news presenting websites, interesting patterns or correlations will be shown. This analysis may provide valuable insights into how various factors, like sentiment, traffic, and geographic location, contribute to the success or popularity of news websites.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [How to Clone the Repository](#how-to-clone-the-repository)
+- [Project Structure](#project-structure)
+- [Task Overview](#task-overview)
+- [Task 1: Project Setup and EDA](#task-1-project-setup-and-eda)
+- [Task 2: Data Science Component Building](#task-2-data-science-component-building)
+- [Task 3: PostgreSQL](#task-3-postgresql)
+- [Task 4: Dashboards](#task-4-dashboards)
+- [Contributions](#contributing)
+- [License](#license)
