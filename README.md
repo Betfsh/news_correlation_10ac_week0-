@@ -69,11 +69,12 @@ If Conda is your preferred package manager:
 
     ```bash
     conda activate env_name
-   ```
+    ```
 5. Install the required dependencies:
    
    ```bash
     pip install -r requirements.txt
+   ```
 
 ## Project Structure
 
