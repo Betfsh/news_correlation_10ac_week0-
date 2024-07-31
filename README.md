@@ -78,3 +78,14 @@ The project is structured as follows:
 - app.py
 - config.json
 - requirements.txt
+
+## Task Overview
+
+The project is divided into multiple tasks:
+
+1. **Project Setup and EDA**: Setup Python environment, perform exploratory data analysis, and answer specific questions about the data.
+2. **Data Science Component Building**: Develop components for machine learning operations (MLOps), conduct time series analysis, classification of headlines, topic modeling, sentiment analysis, and predictive modeling.
+3. **PostgreSQL**: Design database schema, load data into PostgreSQL, and utilize it for storing ML features.
+4. **Dashboards**: Design and implement a dashboard using Streamlit or React to visualize analysis results.
+5. **Deployment**: Deploy the project using GitHub Actions for continuous deployment, and configure environment variables and PostgreSQL database.
+
