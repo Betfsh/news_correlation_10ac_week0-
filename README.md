@@ -112,3 +112,7 @@ The project is divided into multiple tasks:
 ## Contributions
 
 Contributions are welcome! Feel free to open issues or pull requests for any suggestions, bug fixes, or enhancements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
